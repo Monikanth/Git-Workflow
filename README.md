@@ -3,4 +3,4 @@ From GitHub tutorial
 
 Hi All,
 
-Starting GitHub for collaborative practice of Test Automtion with Selenium by Java or Python
+Starting GitHub for collaborative practice of Cloudapps pipeline integration
